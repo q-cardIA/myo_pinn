@@ -1,0 +1,2 @@
+model_checkpoint_path: "20201124-205149_N4800_lr0.001_layers2_neurons32_bn1_log1_weights(5, 1, 0, 1, 1, 0).tf"
+all_model_checkpoint_paths: "20201124-205149_N4800_lr0.001_layers2_neurons32_bn1_log1_weights(5, 1, 0, 1, 1, 0).tf"
