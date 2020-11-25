@@ -26,4 +26,4 @@ $ conda activate myo_pinn
 ```
 
 # Running the code
-`main_dro.py` can be run to rerun the DRO study and `plot_dro.py` can be used to re-load the models for the results in Table 1 and to plot Figure 2. `plot_patient_results.py` can be run to load the pre-trained weights for the patient data and to recreate the results in Table 2 and Figures 3, 4, and 5. The patient data is not available for ethical reasons. Fake placeholder data of the correct dimensions is provided to allow the correct initialisation of models for re-loading pre-trained weights.
+`main_dro.py` can be run to rerun the DRO study and `plot_dro.py` can be used to re-load our pre-trained model weights for the results in Table 1 and to plot Figure 2. `plot_patient_results.py` can be run to load the pre-trained weights for the patient data and to recreate the results in Table 2 and Figures 3, 4, and 5. The patient data is not available for ethical reasons. Fake placeholder data of the correct dimensions is provided to allow the correct initialisation of models for re-loading pre-trained weights.
