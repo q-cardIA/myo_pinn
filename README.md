@@ -1,5 +1,5 @@
 # myo_pinn
-Tensorflow implementation of our paper:
+Tensorflow implementation of our paper (by Roel van Herten):
 
 *Physics-informed neural networks for myocardial perfusion MRI quantification.* Rudolf L.M. van Herten, Amedeo Chiribiri, Marcel Breeuwer, Mitko Veta, and Cian M. Scannell.
 
@@ -13,10 +13,10 @@ If you find this code helpful in your research please cite the following paper:
 }
 ```
 
-# Notes 
+# Methods overview 
 This study introduces physics-informed neural networks (PINNs) as a means to perform myocardial perfusion MR quantification, which provides a versatile scheme for the inference of kinetic parameters. These neural networks can be trained to fit the observed perfusion MR data while respecting the underlying physical conservation laws described by a multi-compartment exchange model. Here, we provide a framework for the implementation of PINNs in myocardial perfusion MR.
 
-![Method overview](PINN_v4.png)
+![Methods overview](PINN_v4.png)
 
 # Environment setup
 The code is implemented in Python 3.7 using the tensorflow2 library. Our anaconda environment can be replicated using the provided requirements.txt
