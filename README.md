@@ -1,7 +1,7 @@
 # myo_pinn
 Tensorflow implementation of our paper (by Roel van Herten):
 
-*Physics-informed neural networks for myocardial perfusion MRI quantification.* Rudolf L.M. van Herten, Amedeo Chiribiri, Marcel Breeuwer, Mitko Veta, and Cian M. Scannell.
+[*Physics-informed neural networks for myocardial perfusion MRI quantification.*](https://arxiv.org/abs/2011.12844) Rudolf L.M. van Herten, Amedeo Chiribiri, Marcel Breeuwer, Mitko Veta, and Cian M. Scannell.
 
 If you find this code helpful in your research please cite the following paper:
 ```
